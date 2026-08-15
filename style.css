@@ -83,7 +83,7 @@ body {
 
 .logo {
     display: block;
-    width: 300px;
+    width: 200px;
     height: auto;
     margin: 0 auto 4px;
 }
@@ -744,7 +744,7 @@ button:hover {
     }
 
     .logo {
-        width: 130px;
+        width: 90px;
         margin: 0 auto 2px;
     }
 
